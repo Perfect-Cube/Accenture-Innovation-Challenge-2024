@@ -1,5 +1,5 @@
 # Accenture-Innovation-Challenge-2024
-# SafeGen – Generative AI with Integrated Safety Backtracking
+# BackTrackAI – Generative AI with Integrated Safety Backtracking
 https://github.com/apache/tvm
 
 https://github.com/mlc-ai/web-llm
